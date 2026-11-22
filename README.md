@@ -41,7 +41,7 @@ git init
 git add .
 git commit -m "Initial CampusConnect student portal"
 git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/CampusConnect.git
+git remote add origin https://github.com/Vanshrjv/CampusConnect.git
 git push -u origin main
 ```
 
